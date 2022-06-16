@@ -1,0 +1,13 @@
+site_name: Arnold for Blender Manual
+theme: readthedocs
+markdown_extensions:
+  - admonition
+nav:
+  - 'Getting Started':
+    - 'installation.md'
+    - 'tutorial.md'
+  - 'Documentation':
+    - 'render_settings.md'
+    - 'materials.md'
+    - 'lights.md'
+    - 'objects.md'
